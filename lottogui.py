@@ -20,7 +20,7 @@ def about():
      showinfo("Editor", "Numbers Generator v1 (created by 5n31d3R aka kubikrubit)")
 
 root = Tk()
-root.title(Lotto Generator)
+root.title("Lotto Generator")
 
 m = Menu(root)
 root.config(menu=m)
